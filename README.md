@@ -2,6 +2,6 @@
 
 Formation dispensée par [Luiz Angelo Steffenel](https://github.com/lsteffenel) et Arnaud Renard aux doctorants de l'École Doctorale SNI de l'Université de Reims Champagne-Ardenne.
 
-Dernière session : 15 mai 2024.
+Dernière session : 22 mai 2025.
 
 
